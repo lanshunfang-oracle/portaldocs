@@ -26,7 +26,7 @@ Install the following software. Your team should be aware of the most current do
 
       1. TypeScript 3.2.2 for Visual Studio 2017 that is dated Dec 10, 2018. It is located at [https://www.microsoft.com/en-us/download/details.aspx?id=55258](https://www.microsoft.com/en-us/download/details.aspx?id=55258)
 
-      1. Node tools that are located at [https://github.com/Microsoft/nodejstools/releases/tag/v1.3.1](https://github.com/Microsoft/nodejstools/releases/tag/v1.3.1)
+      1. [Node tools for VS2017](https://github.com/microsoft/nodejstools#visual-studio-2017-installation) is in built-in workflow. Run Visual Studio installer and select the *Node.js development workload*.
 
 1. Azure Portal SDK that is located at [http://aka.ms/portalfx/download](http://aka.ms/portalfx/download). Each version of the SDK is supported for 120 days. Extensions must upgrade to a newer version of the SDK within 120 days from the release of the SDK version they are currently using as runtime backward compatibility is not supported beyond that.
 
